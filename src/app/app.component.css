@@ -1,0 +1,51 @@
+.container{
+    background-color:lightblue ;
+    margin: 0px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+.heading
+{
+    font-family: Verdana;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    padding-top: 15%;
+    
+}
+.digital
+{
+    text-align: center;
+    font-size: 30px;
+    color:white;
+}
+.col_controls
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.btn
+{
+    background-color: lightcoral;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+   
+}
+.btn:hover
+{
+    opacity: 60%;
+}
+.btn_digital
+{
+    background-color: lightcoral;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
